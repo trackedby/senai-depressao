@@ -89,11 +89,15 @@ body {
     cursor: pointer;
     -webkit-transition: 0.3s;
     transition: 0.3s;
+    border: solid 1px transparent;
+    border-radius: 25px;
 }
 .cursos:hover {
-    transform: scale(1.1);
+    transform: scale(1.05);
     transition: 0.3s;;
     filter: brightness(50%);
+    border: solid 3px white;
+    border-radius: 25px;
 }
 
 @media screen and (max-width: 1000px) {
