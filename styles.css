@@ -104,6 +104,27 @@ body {
     background-repeat: no-repeat;
     background-size: 100% 200px;
 }
+.senai6 {
+    width: 300px;
+    height: 200px;
+    background-image: url(Senai6.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 200px;
+}
+.senai7 {
+    width: 300px;
+    height: 200px;
+    background-image: url(Senai7.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 200px;
+}
+.senai8 {
+    width: 300px;
+    height: 200px;
+    background-image: url(Senai8.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 200px;
+}
 .jogos1 {
     width: 300px;
     height: 200px;
