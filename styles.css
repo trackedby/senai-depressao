@@ -100,4 +100,26 @@ body {
     .senailogo {
         height: 200px;
     }
+    .container2 {
+        flex-direction: column;
+        align-items: center;
+    }
+    .senai1 {
+        width: 800px;
+        height: 600px;
+        background-size: 100% 600px;
+    }
+    .senai2 {
+        width: 800px;
+        height: 600px;
+        background-size: 100% 600px;
+    }
+    .senai3 {
+        width: 800px;
+        height: 600px;
+        background-size: 100% 600px;
+    }
+    .catalogo {
+        font-size: 45px;
+    }
 }
