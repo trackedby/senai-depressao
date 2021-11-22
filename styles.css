@@ -111,6 +111,13 @@ body {
     background-repeat: no-repeat;
     background-size: 100% 200px;
 }
+.jogos2 {
+    width: 300px;
+    height: 200px;
+    background-image: url(jogos2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 200px;
+}
 .containerbottom {
     height: 100%;
     display: flex;
