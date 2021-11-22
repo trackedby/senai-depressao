@@ -104,19 +104,9 @@ body {
         flex-direction: column;
         align-items: center;
     }
-    .senai1 {
-        width: 800px;
-        height: 600px;
-        background-size: 100% 600px;
-    }
-    .senai2 {
-        width: 800px;
-        height: 600px;
-        background-size: 100% 600px;
-    }
-    .senai3 {
-        width: 800px;
-        height: 600px;
+    .cursosmobile {
+        width: 600px;
+        height: 400px;
         background-size: 100% 600px;
     }
     .catalogo {
